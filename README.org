@@ -1,0 +1,9 @@
+* cl-cel
+
+A cost-bounded Common Expression Language (CEL) compiler and evaluator for Common Lisp.
+
+|---------+--------------------------------------+
+| source  | git:https://github.com/atgreen/cl-cel.git |
+| commit  | 0000000                              |
+| systems | cl-cel                               |
+|---------+--------------------------------------+
